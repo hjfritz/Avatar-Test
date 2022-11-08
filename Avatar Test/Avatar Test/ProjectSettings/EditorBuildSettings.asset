@@ -4,5 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/testAvatar.unity
+    guid: 5ac044e221b704f10bd4ac745aac7c9b
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 7d71515dfc62e40febcac0b930bd4b7c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b0dedeee743064f9e8d34de4b7ae21bb, type: 2}
